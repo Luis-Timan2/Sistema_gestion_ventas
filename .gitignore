@@ -1,0 +1,38 @@
+# Ignore Visual Studio temporary files, build results, etc.
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.cache
+*.log
+*.pdb
+*.mdb
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish results
+*.publish.xml
+*.dbmdl
+*.jfm
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Others
+.env
